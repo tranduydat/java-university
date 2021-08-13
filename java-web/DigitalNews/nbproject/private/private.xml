@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/src/java/controller/SearchServlet.java</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/src/java/controller/HomeServlet.java</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/web/post.jsp</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/src/java/model/Post.java</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/src/java/controller/PostServlet.java</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/src/java/dao/impl/PostDAOImpl.java</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/src/java/dao/PostDAO.java</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/src/java/dao/AbstractDAO.java</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/web/search.jsp</file>
+            <file>file:/D:/Repositories/trdat/javaee-labworks/DigitalNews/web/home.jsp</file>
+        </group>
+    </open-files>
+</project-private>
